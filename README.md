@@ -1,4 +1,4 @@
-c# Task Manager API
+# Task Manager API
 
 
 A sample Express-based RESTful API application to manage tasks, designed using clean architecture principles. This application demonstrates modularity, scalability, and ease of maintenance by separating core components into layers.

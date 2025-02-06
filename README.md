@@ -33,7 +33,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tasks-express-app.git
+git clone https://github.com/natnaeldejenekebede/tasks-express-app.git
 cd tasks-express-app
 ```
 2. Install dependencies
